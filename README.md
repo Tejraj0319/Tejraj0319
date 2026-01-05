@@ -1,7 +1,7 @@
-[![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-**Full-Stack Developer | MERN Specialist | Performance & SEO Enthusiast**](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif Hi, I'm Rajesh Patil)  
+Hi, I'm Rajesh Patil
+Full-Stack Developer | MERN Specialist | Performance & SEO Enthusiast
 
-I transform complex requirements into clean, scalable applications—every 1-second performance gain excites me! 🚀  
+I transform complex requirements into clean, scalable applications—every 1-second performance gain excites me! 
 
 
 
