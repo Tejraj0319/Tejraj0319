@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Rajesh Patil  
 **Full-Stack Developer | MERN Specialist | Performance & SEO Enthusiast**  
 
-I transform complex requirements into clean, scalable applications—every 1-second performance gain excites me! 🚀  
+# 💫 About Me:
+  I am currently working on<br><br>Building and enhancing full-stack web applications using the MERN stack, focusing on secure REST APIs, role-based access control, performance optimization, and SEO-friendly React/Next.js interfaces.<br><br>👯 I am looking to collaborate on<br><br>MERN / Full-Stack projects, especially in:<br><br>SaaS applications<br><br>Dashboards & Admin panels<br><br>Real-time apps (chat, notifications, bookings)<br><br>Open-source React or Node.js projects
 
 ---
 
