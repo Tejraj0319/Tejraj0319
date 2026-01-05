@@ -1,141 +1,18 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI+Emoji&size=40&pause=1000&color=DD2727&vCenter=true&width=60&height=50&lines=👋" alt="Waving hand" /> Hi, I'm Rajesh Patil  
-
-**Full-Stack Developer | MERN Specialist | Performance & SEO Enthusiast**  
-
-I transform complex requirements into clean, scalable applications—every 1-second performance gain excites me! 🚀  
-
----
-
-## 📍 Quick Info  
-📍 **Location:** Pune, India  
-📧 **Email:** [rajeshpatil222001@gmail.com](mailto:rajeshpatil222001@gmail.com)  
-📱 **Phone:** +91 9665492870  
-🎂 **DOB:** 02/02/2001  
-
-🔗 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-patil-22517a210/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tejraj0319)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_rajeshpatil_)
+# 💫 About Me:
+🔭 I am currently working on<br><br>Building and enhancing full-stack web applications using the MERN stack, focusing on secure REST APIs, role-based access control, performance optimization, and SEO-friendly React/Next.js interfaces.<br><br>👯 I am looking to collaborate on<br><br>MERN / Full-Stack projects, especially in:<br><br>SaaS applications<br><br>Dashboards & Admin panels<br><br>Real-time apps (chat, notifications, bookings)<br><br>Open-source React or Node.js projects<br><br>🤝 I am looking for help with<br><br>Industry-level code reviews<br><br>System design best practices<br><br>Scaling backend APIs with Node.js & MongoDB<br><br>Improving performance and architecture for production apps<br><br>🌱 I am currently learning<br><br>Advanced Next.js (App Router & SSR)<br><br>Backend optimization & clean architecture<br><br>Scalable authentication & authorization patterns<br><br>Modern Dev tools & AI-assisted development workflows<br><br>💬 Ask me about<br><br>MERN Stack Development<br><br>REST APIs & Prisma ORM<br><br>JWT Authentication & RBAC<br><br>React, Next.js & UI optimization<br><br>SEO, Lighthouse & GTmetrix performance tuning<br><br>⚡ Fun fact<br><br>I enjoy turning complex requirements into clean, scalable code and love improving app performance—even a 1-second faster load time excites me 🚀
 
 
-## 💼 Professional Experience  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rajeshpatil_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajesh-patil-22517a210/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajeshpatil222001@gmail.com) 
 
-### **Full-Stack Developer**  
-**Sevenmentor Training Pvt. Ltd.** | *Jan 2025 – July 2025*  
-*• Developed MERN stack applications that increased user engagement by 60%*  
-*• Built secure REST APIs with Prisma ORM, JWT, and RBAC—zero vulnerabilities reported*  
-*• Improved SEO scores to 95% structure & 80% performance using GTmetrix & Lighthouse*  
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Tejraj0319&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Tejraj0319&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejraj0319&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Tejraj0319&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack  
-
-### **Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### **Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
-
-### **Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### **Databases & ORM**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### **Tools & Platforms**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-## 🚀 Featured Projects  
-
-### **1. ZeeCare – Hospital Management System**  
-*• Role-based access for 200+ patients & admins • JWT authentication • Doctor appointment booking • Cloudinary integration reduced onboarding time by 30%*  
-
-### **2. QuickChat – Real-time Chat Application**  
-*• Socket.IO for instant messaging • 10+ simultaneous chat rooms • Responsive Chakra UI interface • 40% MongoDB optimization • 30% faster data fetching*  
-
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-
-<!-- GitHub Stats Cards -->
-<a href="https://github.com/Tejraj0319">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tejraj0319&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejraj0319&theme=radical&hide_border=true&layout=compact&langs_count=8" />
-</a>
-
-<!-- GitHub Streak Stats -->
-<a href="https://github.com/Tejraj0319">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Tejraj0319&theme=radical&hide_border=true&fire=DD2727&currStreakNum=DD2727" />
-</a>
-
-<!-- Activity Graph -->
-[![Rajesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tejraj0319&theme=radical&hide_border=true&area=true)](https://github.com/Tejraj0319)
-
-<!-- Trophy Stats -->
-![](https://github-profile-trophy.vercel.app/?username=Tejraj0319&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=7)
-
-</div>
-
----
-
-## 🎯 Currently Focusing On  
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=DD2727&center=true&vCenter=true&width=800&lines=Advanced+Next.js+%E2%80%93+App+Router+%26+SSR+Optimization;Backend+Architecture+%E2%80%93+Scalable+%26+Clean+Code+Patterns;Performance+Tuning+%E2%80%93+Lighthouse%2C+GTmetrix%2C+Core+Web+Vitals;AI-Assisted+Development+%E2%80%93+Copilot%2C+v0%2C+Perplexity+Workflows" alt="Typing SVG" />
-</p>
-
----
-
-## 🤝 Let's Collaborate!  
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=27DD89&center=true&vCenter=true&width=800&lines=I'm+actively+looking+to+collaborate+on...;SaaS+Applications+%26+Admin+Dashboards;Real-time+Apps+(Chat%2C+Notifications%2C+Bookings);Open-source+React%2FNode.js+Projects;Performance+%26+Scalability+Challenges" alt="Collaboration Areas" />
-</p>
-
----
-
-## 📫 Get in Touch  
-
-*"Let's build something amazing together! I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision."*  
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeshpatil222001@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-patil-22517a210/)
-[![GitHub](https://img.shields.io/badge/🐱_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tejraj0319)
-
-</div>
-
----
-
-<div align="center">
-  
-![Visitors](https://komarev.com/ghpvc/?username=Tejraj0319&color=DD2727&style=for-the-badge&label=PROFILE+VIEWS)
-
-<!-- Snake Animation -->
-![Snake animation](https://github.com/Tejraj0319/Tejraj0319/blob/output/github-contribution-grid-snake.svg)
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&text=Made%20with%20❤️%20by%20Rajesh%20Patil&fontSize=20&fontAlignY=40" />
-
-*Last Updated: January 2025*  
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
