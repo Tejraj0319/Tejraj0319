@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Rajesh Patil  
+# <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI+Emoji&size=40&pause=1000&color=DD2727&vCenter=true&width=60&height=50&lines=👋" alt="Waving hand" /> Hi, I'm Rajesh Patil  
+
 **Full-Stack Developer | MERN Specialist | Performance & SEO Enthusiast**  
 
 I transform complex requirements into clean, scalable applications—every 1-second performance gain excites me! 🚀  
@@ -17,7 +18,6 @@ I transform complex requirements into clean, scalable applications—every 1-sec
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_rajeshpatil_)
 
----
 
 ## 💼 Professional Experience  
 
