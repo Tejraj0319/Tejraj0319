@@ -1,5 +1,15 @@
-# 💫 About Me:
-🔭 I am currently working on<br><br>Building and enhancing full-stack web applications using the MERN stack, focusing on secure REST APIs, role-based access control, performance optimization, and SEO-friendly React/Next.js interfaces.<br><br>👯 I am looking to collaborate on<br><br>MERN / Full-Stack projects, especially in:<br><br>SaaS applications<br><br>Dashboards & Admin panels<br><br>Real-time apps (chat, notifications, bookings)<br><br>Open-source React or Node.js projects<br><br>🤝 I am looking for help with<br><br>Industry-level code reviews<br><br>System design best practices<br><br>Scaling backend APIs with Node.js & MongoDB<br><br>Improving performance and architecture for production apps<br><br>🌱 I am currently learning<br><br>Advanced Next.js (App Router & SSR)<br><br>Backend optimization & clean architecture<br><br>Scalable authentication & authorization patterns<br><br>Modern Dev tools & AI-assisted development workflows<br><br>💬 Ask me about<br><br>MERN Stack Development<br><br>REST APIs & Prisma ORM<br><br>JWT Authentication & RBAC<br><br>React, Next.js & UI optimization<br><br>SEO, Lighthouse & GTmetrix performance tuning<br><br>⚡ Fun fact<br><br>I enjoy turning complex requirements into clean, scalable code and love improving app performance—even a 1-second faster load time excites me 🚀
+[![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+**Full-Stack Developer | MERN Specialist | Performance & SEO Enthusiast**](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif Hi, I'm Rajesh Patil)  
+
+I transform complex requirements into clean, scalable applications—every 1-second performance gain excites me! 🚀  
+
+
+
+## 📍 Quick Info  
+📍 **Location:** Pune, India  
+📧 **Email:** [rajeshpatil222001@gmail.com](mailto:rajeshpatil222001@gmail.com)  
+📱 **Phone:** +91 9665492870  
+🎂 **DOB:** 02/02/2001  
 
 
 ## 🌐 Socials:
