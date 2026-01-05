@@ -74,12 +74,23 @@ I transform complex requirements into clean, scalable applications—every 1-sec
 ## 📊 GitHub Stats  
 
 <div align="center">
-  
-![Rajesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejraj0319&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Tejraj0319&theme=radical&hide_border=true)
+<!-- GitHub Stats Cards -->
+<a href="https://github.com/Tejraj0319">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tejraj0319&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejraj0319&theme=radical&hide_border=true&layout=compact&langs_count=8" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejraj0319&theme=radical&hide_border=true&layout=compact&langs_count=8)
+<!-- GitHub Streak Stats -->
+<a href="https://github.com/Tejraj0319">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Tejraj0319&theme=radical&hide_border=true&fire=DD2727&currStreakNum=DD2727" />
+</a>
+
+<!-- Activity Graph -->
+[![Rajesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tejraj0319&theme=radical&hide_border=true&area=true)](https://github.com/Tejraj0319)
+
+<!-- Trophy Stats -->
+![](https://github-profile-trophy.vercel.app/?username=Tejraj0319&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=7)
 
 </div>
 
@@ -87,20 +98,17 @@ I transform complex requirements into clean, scalable applications—every 1-sec
 
 ## 🎯 Currently Focusing On  
 
-🔸 **Advanced Next.js** – App Router & SSR optimization  
-🔸 **Backend Architecture** – Scalable & clean code patterns  
-🔸 **Performance Tuning** – Lighthouse, GTmetrix, Core Web Vitals  
-🔸 **AI-Assisted Development** – GitHub Copilot, v0, Perplexity workflows  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=DD2727&center=true&vCenter=true&width=800&lines=Advanced+Next.js+%E2%80%93+App+Router+%26+SSR+Optimization;Backend+Architecture+%E2%80%93+Scalable+%26+Clean+Code+Patterns;Performance+Tuning+%E2%80%93+Lighthouse%2C+GTmetrix%2C+Core+Web+Vitals;AI-Assisted+Development+%E2%80%93+Copilot%2C+v0%2C+Perplexity+Workflows" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🤝 Let's Collaborate!  
 
-I'm actively looking to collaborate on:  
-✅ **SaaS Applications** & **Admin Dashboards**  
-✅ **Real-time Apps** (Chat, Notifications, Bookings)  
-✅ **Open-source React/Node.js Projects**  
-✅ **Performance & Scalability Challenges**  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=27DD89&center=true&vCenter=true&width=800&lines=I'm+actively+looking+to+collaborate+on...;SaaS+Applications+%26+Admin+Dashboards;Real-time+Apps+(Chat%2C+Notifications%2C+Bookings);Open-source+React%2FNode.js+Projects;Performance+%26+Scalability+Challenges" alt="Collaboration Areas" />
+</p>
 
 ---
 
@@ -108,23 +116,26 @@ I'm actively looking to collaborate on:
 
 *"Let's build something amazing together! I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision."*  
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeshpatil222001@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-patil-22517a210/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](#)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeshpatil222001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-patil-22517a210/)
+[![GitHub](https://img.shields.io/badge/🐱_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tejraj0319)
+
+</div>
 
 ---
 
 <div align="center">
   
-![Visitors](https://komarev.com/ghpvc/?username=Tejraj0319&color=blueviolet&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=Tejraj0319&color=DD2727&style=for-the-badge&label=PROFILE+VIEWS)
+
+<!-- Snake Animation -->
+![Snake animation](https://github.com/Tejraj0319/Tejraj0319/blob/output/github-contribution-grid-snake.svg)
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&text=Made%20with%20❤️%20by%20Rajesh%20Patil&fontSize=20&fontAlignY=40" />
 
 *Last Updated: January 2025*  
-*Made with ❤️ by Rajesh Patil*
 
 </div>
-
-<!-- 
-  Animated elements would require additional CSS/JavaScript in a web context.
-  For GitHub README, we use badges and structured layout for visual appeal.
-  Consider adding a portfolio link when available for full animations/interactivity.
--->
