@@ -7,9 +7,9 @@
 <h3 align="center">🚀 Full-Stack Developer | MERN | Scalable Backend Systems</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn</a> •
-  <a href="https://github.com/YOUR_GITHUB" target="_blank">GitHub</a> •
-  <a href="https://YOUR_PORTFOLIO" target="_blank">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/rajesh-patil-22517a210/" target="_blank">LinkedIn</a> •
+  <a href="https://github.com/Tejraj0319" target="_blank">GitHub</a> •
+  <a href="https://courageous-tartufo-48976b.netlify.app/" target="_blank">Portfolio</a> •
   📧 rajeshpatil222001@gmail.com • 📞 +91 9665492870
 </p>
 
@@ -84,8 +84,6 @@ Results-driven **Full-Stack Developer** with **1+ year of hands-on experience** 
 - Reduced doctor onboarding time by **30%**
 - Followed **MVC architecture & clean coding practices**
 
-🔗 **GitHub:** _Add Link_
-
 ---
 
 ### 💬 QuickChat — Real-Time Chat Application
@@ -97,9 +95,6 @@ Results-driven **Full-Stack Developer** with **1+ year of hands-on experience** 
 - Supported **10+ concurrent chat rooms**
 - Optimized MongoDB indexing, improving message retrieval by **40%**
 - Built responsive UI using **Chakra UI** (15+ device resolutions)
-
-🎥 **Demo:** _Add Video Link_  
-🔗 **GitHub:** _Add Link_
 
 ---
 
@@ -115,11 +110,3 @@ Zeal College of Engineering and Research, Pune
 
 📘 **SSC** — Maharaja Sayajirao Vidyalaya, Satara  
 📊 80.20%  
-
----
-
-## 📊 GitHub Stats (Optional but Recommended)
-
-```md
-![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=tokyonight)
