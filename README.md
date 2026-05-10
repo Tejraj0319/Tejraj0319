@@ -13,8 +13,6 @@
   📧 rajeshpatil222001@gmail.com • 📞 +91 9665492870
 </p>
 
-# Hi, I'm Rajesh Patil 👋
-
 Backend-Focused Full Stack Developer specializing in scalable MERN applications, secure REST APIs, real-time systems, and workflow automation.
 
 ## Tech Stack
