@@ -29,7 +29,7 @@ TechStack:-
 
  Featured Projects
 
-1) EventNest — Event Booking Platform
+## 1) EventNest — Event Booking Platform
 
 A scalable full-stack event booking ecosystem with Public, Organizer, and Admin dashboards.
 
@@ -55,7 +55,7 @@ https://github.com/Tejraj0319/EventNest
 
 ---
 
-##2)  QuickChat — Real-Time Chat Application
+## 2)  QuickChat — Real-Time Chat Application
 
 Real-time chat application built using MERN Stack and Socket.IO.
 
