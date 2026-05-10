@@ -17,7 +17,7 @@
 Backend-Focused Full Stack Developer specializing in scalable MERN applications, secure REST APIs, real-time systems, and workflow automation.
 
 ---
-
+TechStack:-
 - Frontend: React.js, Next.js, Redux Toolkit, Tailwind CSS
 - Backend: Node.js, Express.js, Prisma ORM
 - Databases: MongoDB, MySQL
@@ -29,7 +29,7 @@ Backend-Focused Full Stack Developer specializing in scalable MERN applications,
 
  Featured Projects
 
-EventNest — Event Booking Platform
+1) EventNest — Event Booking Platform
 
 A scalable full-stack event booking ecosystem with Public, Organizer, and Admin dashboards.
 
@@ -55,7 +55,7 @@ https://github.com/Tejraj0319/EventNest
 
 ---
 
-## 💬 QuickChat — Real-Time Chat Application
+##2)  QuickChat — Real-Time Chat Application
 
 Real-time chat application built using MERN Stack and Socket.IO.
 
@@ -73,7 +73,7 @@ Real-time chat application built using MERN Stack and Socket.IO.
 
 ---
 
-## 🏥 ZeeCare — Hospital Management System
+## 3) ZeeCare — Hospital Management System
 
 A MERN-stack Hospital Management System with secure role-based workflows.
 
