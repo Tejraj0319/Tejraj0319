@@ -18,22 +18,12 @@ Backend-Focused Full Stack Developer specializing in scalable MERN applications,
 
 ---
 
-Tech Stack:-
-
-### Frontend
-React.js • Next.js • Redux Toolkit • Tailwind CSS • Chakra UI
-
-### Backend
-Node.js • Express.js • Prisma ORM • REST APIs • Socket.IO
-
-### Databases
-MongoDB • MySQL
-
-### Authentication & Security
-JWT • OAuth 2.0 • RBAC • Joi Validation
-
-### Tools & Platforms
-Git • GitHub • Postman • Cloudinary • Razorpay • VS Code
+- Frontend: React.js, Next.js, Redux Toolkit, Tailwind CSS
+- Backend: Node.js, Express.js, Prisma ORM
+- Databases: MongoDB, MySQL
+- Authentication: JWT, OAuth 2.0, RBAC
+- Real-Time: Socket.IO
+- Tools: Git, Postman, Cloudinary, Razorpay
 
 ---
 
